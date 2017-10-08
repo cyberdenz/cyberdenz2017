@@ -1,1 +1,4 @@
-//main.js file 
+//main.js file
+function main(){
+  
+}
